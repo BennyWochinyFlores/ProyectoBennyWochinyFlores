@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvaluacionContinua01(BennyWochinyFlores)</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_actividad_principal">ActividadPrincipal</string>
+    <string name="title_activity_ventana_principal">VentanaPrincipal</string>
+</resources>
